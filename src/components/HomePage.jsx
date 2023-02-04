@@ -46,7 +46,7 @@ export default function HomePage() {
           ></img>
 
           <form className={style.homeForm} onSubmit={onSubmitHandler}>
-            <h1>"Communication Is Very Important For Every Individual"</h1>    
+            <h1>"Communication Is Very Important"</h1>    
             <small>
               <i>
                 "In order for any relationship to stand the test of time, solid
